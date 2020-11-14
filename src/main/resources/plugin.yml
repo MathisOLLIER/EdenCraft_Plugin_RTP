@@ -1,0 +1,10 @@
+name: RandomTeleportation
+version: ${project.version}
+main: edencraft.plugin.randomteleportation.RandomTeleportation
+api-version: 1.16
+authors: [ Mathis ]
+description: Random teleportation when the play type "/rtp"
+commands:
+  rtp:
+    description: Random teleportation.
+    usage: /<command>
